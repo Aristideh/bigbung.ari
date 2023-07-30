@@ -1,0 +1,16 @@
+#help{
+	height: 60px;
+	width: 760opx;
+	background: limegreen;
+	font-style: italic;
+	font-size: 50px;
+
+}
+#account{
+	background-color: palegreen;
+	align-self: center;
+	align-tracks: center;
+	margin-right: center;
+	height: 450px;
+	width: 760px;
+}
